@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Nick
 
-<!--
-**segfault-coredumped/segfault-coredumped** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate focused on systems programming, cybersecurity, and applied cryptography.
 
-Here are some ideas to get you started:
+I enjoy building low-level and security-focused software that explores how cryptographic systems and secure communication work under the hood.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+___
+
+## Core Interests
+
+- Cryptography & Secure Systems
+- Systems Programming (C / Python)
+- Cybersecurity fundamentals
+- Full-stack development (React / JavaScript)
+- Graphics programming (OpenGL)
+
+___
+
+## Featured Projects
+
+### 🔐 Cryptography Projects
+- ElGamal Digital Signature Implementation (Python)
+- AES-256-CTR Secure Chat System (OpenSSL EVP API)
+- Sponge-based Cryptographic Hash Function (C)
+- Proof-of-Work / Bitcoin Mining Simulation (SHA-256)
+
+### 🌐 Software Development
+- React-based full-stack senior project (JavaScript, Supabase)
+
+### 🎮 Graphics Programming
+- Conway’s Game of Life simulation using OpenGL
+- 
+___
+
+## Skills
+
+**Languages:** C, Python, JavaScript, Java 
+**Security:** AES, ElGamal, SHA-256, modular arithmetic, EVP API  
+**Systems:** OpenSSL, Linux tooling, memory-level programming  
+**Web:** React, Supabase  
+**Graphics:** OpenGL basics, simulation rendering  
+
+___
+
+## What I'm currently focused on
+
+Building a strong foundation in:
+- Secure software design
+- Systems-level programming
+- Practical cryptography
+- Entry-level cybersecurity / IT roles
+
+___
+
+## Contact
