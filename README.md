@@ -4,7 +4,7 @@ Computer Science graduate focused on systems programming, cybersecurity, and app
 
 I enjoy building low-level and security-focused software that explores how cryptographic systems and secure communication work under the hood.
 
-___
+
 
 ## Core Interests
 
@@ -14,7 +14,7 @@ ___
 - Full-stack development (React / JavaScript)
 - Graphics programming (OpenGL)
 
-___
+
 
 ## Featured Projects
 
@@ -30,7 +30,7 @@ ___
 ### 🎮 Graphics Programming
 - Conway’s Game of Life simulation using OpenGL
 - 
-___
+
 
 ## Skills
 
@@ -40,7 +40,6 @@ ___
 **Web:** React, Supabase  
 **Graphics:** OpenGL basics, simulation rendering  
 
-___
 
 ## What I'm currently focused on
 
@@ -50,6 +49,5 @@ Building a strong foundation in:
 - Practical cryptography
 - Entry-level cybersecurity / IT roles
 
-___
 
 ## Contact
