@@ -1,6 +1,6 @@
 # Hi, I'm Nick
 
-Computer Science graduate focused on systems programming, cybersecurity, and applied cryptography.
+Computer Science graduate from California State University, Sacramento with interests in systems programming, cybersecurity, and applied cryptography.
 
 I enjoy building low-level and security-focused software that explores how cryptographic systems and secure communication work under the hood.
 
@@ -12,7 +12,7 @@ I enjoy building low-level and security-focused software that explores how crypt
 - Systems Programming (C / Python)
 - Cybersecurity fundamentals
 - Full-stack development (React / JavaScript)
-- Graphics programming (OpenGL)
+- Graphics programming (OpenGL / Java)
 
 
 
