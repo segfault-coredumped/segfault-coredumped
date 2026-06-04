@@ -49,5 +49,3 @@ Building a strong foundation in:
 - Practical cryptography
 - Entry-level cybersecurity / IT roles
 
-
-## Contact
