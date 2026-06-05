@@ -34,6 +34,7 @@ I enjoy building low-level and security-focused software that explores how crypt
 ## Skills
 
 **Languages:** C, Python, JavaScript, Java
+
 **Security:** AES, ElGamal, SHA-256, modular arithmetic, EVP API  
 **Systems:** OpenSSL, Linux tooling, memory-level programming  
 **Web:** React, Supabase  
