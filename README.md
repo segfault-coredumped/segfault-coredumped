@@ -29,7 +29,6 @@ I enjoy building low-level and security-focused software that explores how crypt
 
 ### 🎮 Graphics Programming
 - Conway’s Game of Life simulation using OpenGL
-- 
 
 
 ## Skills
